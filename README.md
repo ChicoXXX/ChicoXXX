@@ -10,6 +10,10 @@ const Chico = {
   SO: ["Debian"]
 }
 ```
+### Code
+__[𝗖](https://cdn.svgporn.com/logos/c.svg)__
+ 
+
 ### Github Stats
 
 [![Chico GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChicoXXX&show_icons=true&count_private=true)](https://github.com/ChicoXXX)
