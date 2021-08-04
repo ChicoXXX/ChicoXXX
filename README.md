@@ -11,7 +11,7 @@ const Chico = {
 }
 ```
 ### Code
-![C](https://cdn.svgporn.com/logos/c.svg | width=100)
+![C|20%](https://cdn.svgporn.com/logos/c.svg)
  
 
 ### Github Stats
