@@ -9,7 +9,7 @@ const Chico = {
   code: [C, HTML5, CSS, R, Python, LaTeX],
   SO: ["Debian"],
   techCommunities: {
-                        organizer: "GULAG"
+                        organizer: "[GULAG](https://github.com/GULAG)"
                       }
 }
 ```
