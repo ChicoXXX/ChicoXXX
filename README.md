@@ -12,7 +12,7 @@ const Chico = {
 ```
 ### Code
 
-<img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/c.svg"><img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
  
 
 ### Github Stats
