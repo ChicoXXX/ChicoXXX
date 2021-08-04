@@ -10,6 +10,9 @@ const Chico = {
   SO: ["Debian"]
 }
 ```
+### Github Stats
+
+[![Chico GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChicoXXX&show_icons=true&count_private=true)](https://github.com/ChicoXXX)
 
 <!--
 **ChicoXXX/ChicoXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
