@@ -12,8 +12,16 @@ const Chico = {
 ```
 ### Code
 
-<img height="64px" src="https://cdn.svgporn.com/logos/c.svg"><img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
- 
+<img height="64px" src="https://cdn.svgporn.com/logos/c.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
+
+### Database
+<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+
+### SO
+<img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+
+### Learning
+<img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
 
 ### Github Stats
 
