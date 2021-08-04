@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter: Osvaldo_Salazar](https://img.shields.io/twitter/follow/osvaldo_salazar?style=social)](https://twitter.com/osvaldo_salazar)
+
 <!--
 **ChicoXXX/ChicoXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
