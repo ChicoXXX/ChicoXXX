@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Twitter: Osvaldo_Salazar](https://img.shields.io/twitter/follow/osvaldo_salazar?style=social)](https://twitter.com/osvaldo_salazar)
-[![Linkedin: osvaldosalazar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldosalazar/)](https://www.linkedin.com/in/osvaldosalazar/)
+[![Linkedin: osvaldosalazar](https://img.shields.io/badge/-osvaldosalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldosalazar/)](https://www.linkedin.com/in/osvaldosalazar/)
 ### Code
 
 <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
