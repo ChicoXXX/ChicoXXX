@@ -20,4 +20,4 @@
 
 ### Popular repos
 
-<a href="https://github.com/GULAG/gulag.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChicoXXX&repo=gulag.github.io&theme=radical""></a>
+<a href="https://github.com/GULAG/gulag.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GULAG&repo=gulag.github.io&theme=gruvbox""></a>
