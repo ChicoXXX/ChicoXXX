@@ -6,10 +6,8 @@
 [![Linkedin: osvaldosalazar](https://img.shields.io/badge/-osvaldosalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldosalazar/)](https://www.linkedin.com/in/osvaldosalazar/)
 [![Youtube Channel](
 https://img.shields.io/badge/-Osvaldo%20Salazar-red??style=flat-square&logo=Youtube&link=https://www.youtube.com/osvaldosalazar)](https://www.youtube.com/osvaldosalazar)
-
 [![My website](
-https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=debian&link=http://www.salazarysanchez.com)](http://www.salazarysanchez.com)
-
+https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&link=http://www.salazarysanchez.com)](http://www.salazarysanchez.com)
 
 ### Code
 <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
