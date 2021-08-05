@@ -1,5 +1,10 @@
 ### Hi, I'm Osvaldo 👋
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science;Astronomer%20Amateur;Community%20Organizer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 ## Computer Science & Astronomer Amateur & Community Organizer
 
 [![Twitter: Osvaldo_Salazar](https://img.shields.io/twitter/follow/osvaldo_salazar?style=social)](https://twitter.com/osvaldo_salazar)
