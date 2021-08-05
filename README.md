@@ -21,9 +21,6 @@
 
 [![Chico GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChicoXXX&show_icons=true&count_private=true&theme=radical)](https://github.com/ChicoXXX)
 
-### Popular repos
 
-<a href="https://github.com/GULAG/gulag.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GULAG&repo=gulag.github.io&theme=gruvbox""></a>
-
-[![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/osvaldosalazar)](https://www.youtube.com/osvaldosalazar)
+[![Youtube Channel](https://img.shields.io/badge/osvaldosalazar?style=flat-square&logo=Youtube&link=https://www.youtube.com/osvaldosalazar)](https://www.youtube.com/osvaldosalazar)
 
