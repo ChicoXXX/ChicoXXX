@@ -22,5 +22,6 @@
 [![Chico GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChicoXXX&show_icons=true&count_private=true&theme=radical)](https://github.com/ChicoXXX)
 
 
-[![Youtube Channel](https://img.shields.io/badge/osvaldosalazar?style=flat-square&logo=Youtube&link=https://www.youtube.com/osvaldosalazar)](https://www.youtube.com/osvaldosalazar)
+[![Youtube Channel](
+https://img.shields.io/badge/-osvaldo-red??style=flat-square&logo=Youtube&link=https://www.youtube.com/osvaldosalazar)](https://www.youtube.com/osvaldosalazar)
 
