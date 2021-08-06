@@ -2,7 +2,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science;Astronomer%20Amateur;Community%20Organizer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science;Astronomer%20Amateur;Community%20Organizer;Always%20learning%20new%20things;Willing%20to%20Relocate&center=true&width=380&height=45"></a>
 </p>
 
 [![Twitter: Osvaldo_Salazar](https://img.shields.io/twitter/follow/osvaldo_salazar?style=social)](https://twitter.com/osvaldo_salazar)
@@ -23,6 +23,11 @@ https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&lo
 
 ### SO
 <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+
+### More
+- 🌱 I’m currently learning: __Rust__
+- 👯 I’m looking to collaborate on: Automotive
+- 💬 Ask me about: __Free Software__
 
 ### Github Stats
 
