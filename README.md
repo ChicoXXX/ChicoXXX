@@ -22,11 +22,11 @@ https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&lo
 <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
 
 ### SO
-<img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/debian.svg">   <img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
 
 ### More
 - 🌱 I’m currently learning: __Rust__
-- 👯 I’m looking to collaborate on: Automotive
+- 👯 I’m looking to collaborate on: __Automotive__
 - 💬 Ask me about: __Free Software__
 
 ### Github Stats
