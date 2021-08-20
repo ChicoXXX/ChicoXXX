@@ -16,7 +16,7 @@ https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&lo
 <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
 
 ### Technologies
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">  
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg">
 
 ### Database
 <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">  <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
