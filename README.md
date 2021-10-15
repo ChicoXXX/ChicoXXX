@@ -28,7 +28,3 @@ https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&lo
 - 🌱 I’m currently learning: __Rust__
 - 👯 I’m looking to collaborate on: __Automotive__
 - 💬 Ask me about: __Free Software__
-
-### Github Stats
-
-[![Chico GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChicoXXX&show_icons=true&count_private=true&theme=radical)](https://github.com/ChicoXXX)
