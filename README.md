@@ -28,5 +28,3 @@ https://img.shields.io/badge/-My%20website-blue??style=flat-square&logo=linux&lo
 - 🌱 I’m currently learning: __Rust__
 - 👯 I’m looking to collaborate on: __Automotive__
 - 💬 Ask me about: __Free Software__
-
-[![@chicoxxx's Holopin board](https://holopin.me/chicoxxx)](https://holopin.io/@chicoxxx)
